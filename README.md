@@ -26,11 +26,8 @@ Install rembg in your Python 3 environment.
 
 1.  **Install `rembg`** in your Python 3 environment.
 
-    bash
-
-    Copy code
-
-    `pip install rembg[cli]`
+     ```bash
+    pip install rembg[cli]
 
 2.  **Copy the Plugin to GIMP**:
 
